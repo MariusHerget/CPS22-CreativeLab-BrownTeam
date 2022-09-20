@@ -1,0 +1,200 @@
+{
+    "00": {
+        "title": "undefined | default",
+        "authors": [
+        ],
+        "institues": [
+        ]
+    },
+    "01": {
+        "title": "AdaMICA: Adaptive Multicore Intermittent Computing",
+        "authors": [
+            "Khakim Akhunov",
+            "Kasim Sinan Yildirim"
+        ],
+        "institues": [
+            "University of Trento"
+        ]
+    },
+    "02": {
+        "title": "ECGformer: Transformer-Based Epilepsy Detection on Raw EEG Traces for Low-Channel-Count Wearable Continuous Monitoring Devices",
+        "authors": [
+            "Paola Busia",
+            "Andrea Cossettini",
+            "Thorir Mar Ingolfsson",
+            "Simone Benatti",
+            "Alessio Burrello",
+            "Moritz Scherer",
+            "Matteo Antonio Scrugli",
+            "Paola Meloni",
+            "Luca Benini"
+        ],
+        "institues": [
+            "DIEE University of Cagliari",
+            "IIS ETH Zurich",
+            "DEI University of Bologna",
+            "DISMI University of Modena and Reggio Emilia"
+        ]
+    },
+    "03": {
+        "title": "Counter-example Guided Abstract Refinement for NN Verification",
+        "authors": [
+            "Stefano Demarchi",
+            "Dario Guidotti"
+        ],
+        "institues": [
+            "Universita degli Studi di Genove, DIBRIS"
+        ]
+    },
+    "04": {
+        "title": "ML-Based Modeling and Virtualization of Reconfigurable Multi-Accelerator Systems",
+        "authors": [
+            "Juan Encinas"
+        ],
+        "institues": [
+            "Universidad Politecnia de Madrid"
+        ]
+    },
+    "05": {
+        "title": "T4C: A Framework For Time-Series Clustering-As-A-Servoce",
+        "authors": [
+            "Alessandro Falcetta",
+            "Manuel Roveri"
+        ],
+        "institues": [
+            "Politecnico Milano"
+        ]
+    },
+    "06": {
+        "title": "Design Space Exploration 2.0 for complex, distributed Cyber-Physical-System",
+        "authors": [
+            "Marius Herget",
+            "Faezeh Saadatmand"
+        ],
+        "institues": [
+            "University of Amsterdam",
+            "Leiden University"
+        ]
+    },
+    "07": {
+        "title": "Bio and Cyber Neural Network Interaction: Toward Hand Kinematic Decoding",
+        "authors": [
+            "Gianluca Leone",
+            "Paolo Meloni"
+        ],
+        "institues": [
+            "Universita degli Studi di Cagliari"
+        ]
+    },
+    "08": {
+        "title": "A Distributed Task Scheduling Framework for Edge Computing and Cyber Physical Systems",
+        "authors": [
+            "Milko Monecke"
+        ],
+        "institues": [
+            "Technische Universitat Berlin"
+        ]
+    },
+    "09": {
+        "title": "On-device Subject Recognition in UWB-radar data with Tiny Machine Lerning",
+        "authors": [
+            "Massimo Pavan",
+            "Armando Caltabliano",
+            "Manuel Roveri"
+        ],
+        "institues": [
+            "Politecnico Milano"
+        ]
+    },
+    "10": {
+        "title": "Multithread accelerators on FPGAs: a Dataflow-based Approach",
+        "authors": [
+            "Francesco Ratto",
+            "Luigi Raffo",
+            "Francesca Palumbo"
+        ],
+        "institues": [
+            "University of Cagliari",
+            "University of Sassari"
+        ]
+    },
+    "11": {
+        "title": "Adaptable programming models and compilers for 5G and beyond",
+        "authors": [
+            "Julian Robledo-Mejia"
+        ],
+        "institues": [
+            "Technische Universitat Dresden"
+        ]
+    },
+    "12": {
+        "title": "CHAOS - Configurations Analysis of Swarms of Cyber-Physical Systems",
+        "authors": [
+            "V. Trombetta",
+            "E. Tronci",
+            "A. LEgay"
+        ],
+        "institues": [
+            "University of Luxembourg",
+            "Sapienza University of Rome",
+            "Catholic University of Louvain"
+        ]
+    },
+    "13": {
+        "title": "A Deep Learning Artichoke Plants Identification Approach for Site-specific UAV Spraying",
+        "authors": [
+            "J. Motta",
+            "A. Sassu",
+            "A. Carlevaro",
+            "A. Deidda",
+            "L. Ghiani",
+            "F. Gambella",
+            "G. Garibotto"
+        ],
+        "institues": [
+            "Aitek SpA",
+            "University of Sassari",
+            "University of Genoa"
+        ]
+    },
+    "14": {
+        "title": "HW-SW management using a lightweight YOCTO-based OS on a ZCU102",
+        "authors": [
+            "Raffaele Meloni",
+            "Giuseppe Meloni",
+            "Daniel Madronal"
+        ],
+        "institues": [
+            "Universita degli Studi di Sassari",
+            "Abinsula S.R.L."
+        ]
+    },
+    "16": {
+        "title": "WP5-09-ROTLightweight Cryptography",
+        "authors": [
+            "COMP4DRONES"
+        ],
+        "institues": [
+            "PTechnology"
+        ]
+    },
+    "17": {
+        "title": "Smart precision agriculture: from drone to rover",
+        "authors": [
+            "COMP4DRONES"
+        ],
+        "institues": [
+            "PTechnology"
+        ]
+    },
+    "18": {
+        "title": "Efficient Design of Scalable Indoor Positioning System based on Wi-Fi Fingerprinting",
+        "authors": [
+            "Emad Ebaid",
+            "Keivan Navaie"
+        ],
+        "institues": [
+            "Lancaster University"
+        ]
+    }
+}
